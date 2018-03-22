@@ -7,3 +7,8 @@ For example :
 * ferry wheel
 * haunted mansion
 * bumper cars
+
+## Robotics contest Bugnplay
+www.bugnplay.ch
+
+![image](../Magic_Wand/Pictures/House.jpg)
